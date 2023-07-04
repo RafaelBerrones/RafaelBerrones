@@ -6,7 +6,7 @@
 - 💬 Me pergunte sobre minha jornada! **Sempre estarei disposto a contar como consegui me manter no foco e estudar sempre por conta.**
 - 📫 Fale comigo em **rafael.berrones@hotmail.com**
 - ⚡ Curiosidade sobre mim **Sou apaixonado por vôlei e quase joguei profissionalmente em uma época da minha vida.**
-- 📋 Habilidade: Trabalho muito bem em equipe, tenho inglês avançado, e sempre supero uma dificuldade!
+- 📋 Habilidades: Trabalho muito bem em equipe, tenho inglês avançado, e sempre supero uma dificuldade!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/rafael-berrones-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rafael-berrones-da-silva" height="30" width="40" /></a>
