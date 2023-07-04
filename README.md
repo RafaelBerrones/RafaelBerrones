@@ -1,5 +1,6 @@
-<h1 align="center">Olá 👋, eu sou o Rafael!</h1>
-<h3 align="center">Sou um programador que trabalha com a linguagem Python!</h3>
+<p align="center">
+  <img src="https://github.com/kterra92/kterra92/raw/main/assets/header-github.gif" alt="Olá, Eu sou o Rafael, um programador que trabalha com a linguagem Python!">
+</p>
 
 - 🌱 Atualmente estou aprendendo: **Python para DataScience, as bibliotecas mais utilizadas como Pandas e Numpy, estou me atualizando em Machine Learning também!**
 
