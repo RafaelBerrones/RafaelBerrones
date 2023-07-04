@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kterra92/kterra92/raw/main/assets/header-github.gif" alt="Olá, Eu sou o Rafael, um programador que trabalha com a linguagem Python!">
+  <img src="https://github.com/rafaelberrones/rafaelberrones/raw/main/assets/header-github.gif" alt="Olá, Eu sou o Rafael, um programador que trabalha com a linguagem Python!">
 </p>
 
 - 🌱 Atualmente estou aprendendo: **Python para DataScience, as bibliotecas mais utilizadas como Pandas e Numpy, estou me atualizando em Machine Learning também!**
